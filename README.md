@@ -1,3 +1,5 @@
+![Weather](https://cloud.githubusercontent.com/assets/8536299/8458376/1b288df2-2017-11e5-8351-ec1b2dabeae3.png)
+
 Weather-station
 ===============
 
